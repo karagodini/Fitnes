@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    background-color: #FFFFFF;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+
+body {
+    font-family: 'Alegreya', 'Josefin Sans', sans-serif;
+}
+
+.menu {
+    padding: 0 215px;
+    margin-top: 32px;
+}
+
+.logo {
+    margin-right: 123px;
+}
+
+.menu-link {
+    font-family: 'Alegreya';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    color: #837171;
+    text-decoration: none;
+}
+
+.menu-btn {
+
+}
